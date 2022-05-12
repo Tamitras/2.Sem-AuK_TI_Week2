@@ -1,0 +1,6 @@
+000000 Meier
+000001 Mueller
+000002 Kahn
+000002 Kahn
+555555 Voeller
+000999 Vogts
